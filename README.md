@@ -1,7 +1,9 @@
 # E-Commerce Recommendation System
 
 ## Introduction
-In today's digital era, e-commerce platforms are becoming increasingly popular, offering a vast array of products to consumers worldwide. However, with the abundance of choices, it can be overwhelming for users to find products that match their preferences. To address this challenge, implementing a recommendation system can significantly enhance the user experience by providing personalized product suggestions. In this article, we'll explore the process of building an e-commerce recommendation system using Flask and machine learning techniques, including content-based, collaborative filtering, hybrid, and multi-model recommendations.
+In today's digital era, e-commerce platforms offer countless products, making it challenging for users to find what they want. 
+A recommendation system can greatly improve user experience by providing personalized product suggestions. 
+This article explores building such a system using Flask and machine learning techniques, including content-based, collaborative filtering, hybrid, and multi-model approaches.
 
 ## Understanding Recommendation Systems
 
